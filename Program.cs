@@ -1,5 +1,5 @@
 ﻿//Вьюгова К.Д. Ам-1-24
-//solve task2
+
 using System;
 
 public class Program
